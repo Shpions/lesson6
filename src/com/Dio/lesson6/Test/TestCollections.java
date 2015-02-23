@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
+//local code review (vtegza): restructure you project, test folder should be on same level as src folder @ 2/23/2015
 public class TestCollections {
     private final ServiceDelegate serviseDelegate = new ServiceDelegate(new ArrayHelper());
 
